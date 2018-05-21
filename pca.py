@@ -16,7 +16,7 @@ import tensorflow as tf
 from matplotlib import pyplot as plt
 
 
-data=np.empty((0,2048))
+data=np.empty((0,2048)) # 2048 is the size of the feature vector/number of pixels after  resizing the image
 
 for filename in glob.glob("C:\\Users\\Hrid\\Desktop\\NEW_NEW_NEW\\training\\*.png"):
     im=cv2.imread(filename,0)
