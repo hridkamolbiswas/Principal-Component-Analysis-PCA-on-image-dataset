@@ -1,6 +1,6 @@
 # Principal-Component-Analysis-PCA-on-image-dataset
 
-### show few sample images from tarining dataset 
+### show few sample images from training dataset 
 ![2](https://user-images.githubusercontent.com/32744170/40328009-28c54fea-5d45-11e8-8b49-2a184d3799c1.png)
 
 #### images are represented by the linear combination of eigenvectors.
